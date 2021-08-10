@@ -134,4 +134,4 @@ Note that you only need to create one video per lab.
 
 You should edit THIS file and add a link to your video on Vimeo (preferred) or YouTube here:
 
-Link to my Explainer Video for Lab 5: [Click here](https://<yourlinkhere>).
+Link to my Explainer Video for Lab 5: [Click here](https://youtu.be/248u-FcxB58).
